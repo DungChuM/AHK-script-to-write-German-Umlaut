@@ -20,3 +20,6 @@ What you type -> What character show up
 
 - es -> é
 - Shift+E s -> É
+<br>
+
+TODO: Add a toggle shortcut (Like in Unikey, CTRL+Shift or ALT+z to toggle English or Vietnamese)
