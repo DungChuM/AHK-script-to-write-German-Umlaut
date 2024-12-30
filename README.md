@@ -28,4 +28,5 @@ What you type -> What character show up
 <br>
 
 TODO: Add a toggle shortcut (Like in Unikey, CTRL+Shift or ALT+z to toggle English or Vietnamese)
+
 TODO: Add a autocorrect-ish: aw -> ä but aww -> aw instead. (DONE on Version 2)
